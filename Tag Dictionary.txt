@@ -1,8 +1,0 @@
-a: Anchor tag, it makes text clickable to link to a website
-h1:
-h2:
-img:
-li:
-ol: Ordered List tag
-p: Paragraph tag
-ul: Unordered List tag
