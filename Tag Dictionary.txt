@@ -1,0 +1,33 @@
+a: Anchor tag: makes text clickable to link to a website.
+   Attributes: href=""
+   Example: <a href="https://www.youtube.com/"> Click here!</a>
+	
+h1: Header tag: makes the text large and puts it on a separate line.
+	Attributes: None
+	Example: <h1> Hi </h1>
+	
+h2-6: Sub-Heading tag: generally makes text larger, but smaller than h1, and puts it on a separate line.
+	  Attributes: None
+	  Example: <h2>Hi</h2> <h3>Yeet</h3> <h4>Wee-Woo</h4> <h5>Lolololol</h5> <h6>Braviary is the best!</h6>
+	  
+img: Image tag: puts an image onto the website
+	 Attributes: src=""
+	 Example: <img src="Alpaca.jpg"> 
+	 
+li: List Item tag: is used with the "Ordered List" and "Unordered List" tags. Creates an indented list with either numbers or bullet points.
+	Attributes: None
+	Example: <ul>
+	<li>ANNOYING LILI</li>
+			 </ul>
+	
+ol: Ordered List tag: creates a list with numbers starting at 1. To be used with "List Item" tag
+	Attributes: None
+	Example:<ol> <li>Hi</li> </ol>
+	
+p: Paragraph tag: creates a paragraph on a separate line with no bold or indent.
+   Attributes: None
+   Example: <p>The unanimous Declaration of the thirteen united States of America</p>
+   
+ul: Unordered List tags: creates a list with bullet points. To be used with the "List Item" tag.
+	Attributes: None
+	Example: <ul> <li>Hello</li> <li>Baahhhhh</li> </ul>
