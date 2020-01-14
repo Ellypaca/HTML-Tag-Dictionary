@@ -1,6 +1,18 @@
+!-- --: (Don't know its name): Used to give notes for yourself that don't appear on the website.
+	Attributes: none
+	Example: <!--HIHIHIHI-->
+
+!DOCTYPE: Html selector tag: selects what version of html you want to use
+	  Attributes (Kinda): html (most recent version)
+	  Example: <!DOCTYPE html>
+
 a: Anchor tag: makes text clickable to link to a website.
    Attributes: href=""
    Example: <a href="https://www.youtube.com/"> Click here!</a>
+
+body: Body tag: contains the content of the webpage
+      Attributes: bgcolor=""
+      Example: <body bgcolor="C9C9C9"> stuff </body>
 	
 h1: Header tag: makes the text large and puts it on a separate line.
 	Attributes: None
@@ -9,6 +21,14 @@ h1: Header tag: makes the text large and puts it on a separate line.
 h2-6: Sub-Heading tag: generally makes text larger, but smaller than h1, and puts it on a separate line.
 	  Attributes: None
 	  Example: <h2>Hi</h2> <h3>Yeet</h3> <h4>Wee-Woo</h4> <h5>Lolololol</h5> <h6>Braviary is the best!</h6>
+	  
+head: Head tag: Contains things for your browser to think about: Contains title, tags
+      Attributes: none
+      Example: <head> <title> HEY THERE </title> </head>
+      
+html: html tag: Tells browsers where your html code starts and ends
+      Attributes: none
+      Example: <html> stuff </html>
 	  
 img: Image tag: puts an image onto the website
 	 Attributes: src=""
@@ -27,6 +47,10 @@ ol: Ordered List tag: creates a list with numbers starting at 1. To be used with
 p: Paragraph tag: creates a paragraph on a separate line with no bold or indent.
    Attributes: None
    Example: <p>The unanimous Declaration of the thirteen united States of America</p>
+   
+   title: Title tag: Is the title of your webpage in your tabs
+	  Attributes: none
+	  Example: <title> Altaria Rockz </title>
    
 ul: Unordered List tags: creates a list with bullet points. To be used with the "List Item" tag.
 	Attributes: None
